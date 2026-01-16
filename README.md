@@ -38,7 +38,7 @@ Anaconda is a free, open-source distribution of Python and R designed for data s
 
 ----
 
-**Python Features :**
+**Python Features :**   
 ![Python_Feature_Picture](Picture3.png)
 
 ------
