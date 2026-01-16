@@ -29,7 +29,8 @@ Anaconda is a free, open-source distribution of Python and R designed for data s
 1. Python is interpreter language.
 2. Python is easiest language to learn.
 3. Python is most important language for Cyber security, Data science, Data Analytics, Artificial Intelligence & Machine learning.
- 
+
+**Download Python : https://www.python.org/**
  
 **Why Jupyter NoteBook?** 
 * Cell by cell execution : You can run code in small parts, not all at once.
