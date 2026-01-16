@@ -36,9 +36,27 @@ Anaconda is a free, open-source distribution of Python and R designed for data s
 
 ![Python Usability Image](Picture2.png)
 
+----
+
 **Python Features :**
 ![Python_Feature_Picture](Picture3.png)
 
+------
+
+## Python Installation Process Step-by-Step:
+![Step_1](Picture4.png)
+![Step_2](Picture5.png)
+![Step_3](Picture6.png)
+![Install_Python_1](Picture7.png)
+![Instllation_Python_2](Picture8.png)
+![Installation_Python_3](Picture9.png)
+![Installation_Python_4](Picture10.png)
+![Installation_Python_5](Picture11.png)
+![Installation_Python_6](Picture12.png)
+![Installation_Python_7](Picture13.png)
+![Installation_Python_8](Picture14.png)
+![Installation_Python_9](Picture15.png)
+![Installation_Python_10](Picture16.png)
 
 **Why Jupyter NoteBook?** 
 * Cell by cell execution : You can run code in small parts, not all at once.
