@@ -33,7 +33,13 @@ Anaconda is a free, open-source distribution of Python and R designed for data s
 ![Why Python Image](Picture1.png)
 
 **Download Python : https://www.python.org/**
- 
+
+![Python Usability Image](Picture2.png)
+
+**Python Features :**
+![Python_Feature_Picture](Picture3.png)
+
+
 **Why Jupyter NoteBook?** 
 * Cell by cell execution : You can run code in small parts, not all at once.
 * Instant output : Output appears immediately below the code.
@@ -64,11 +70,15 @@ Advantages:
 •	Free GPU/TPU access
 •	Easy collaboration
 •	Runs in browser
+
+ ![Google_Collab_Feature_Picture](Picture18.png)
  
 ## Steps to Use Google Colab:
 1.	Visit https://colab.research.google.com
 2.	Sign in using Google account
 3.	Create a new Python notebook
+
+![Python_Using_by_these_Companies](Picture17.png)
 
 ## Conclusion
 Python provides a flexible and powerful programming environment. Jupyter Notebook and Google Colab simplify learning and exploratory data analysis by providing interactive execution and visualization support.
